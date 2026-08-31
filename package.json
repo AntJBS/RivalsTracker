@@ -4,7 +4,7 @@
   "description": "A Discord Bot that will allow you to check your account for winrate and recent games based on info gathered from tracker.gg",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
