@@ -1,0 +1,24 @@
+{
+  "name": "rivalstracker",
+  "version": "1.0.0",
+  "description": "A Discord Bot that will allow you to check your account for winrate and recent games based on info gathered from tracker.gg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntJBS/RivalsTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AntJBS/RivalsTracker/issues"
+  },
+  "homepage": "https://github.com/AntJBS/RivalsTracker#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
